@@ -1,0 +1,1 @@
+{'lang': 'english', 'is_juldaumgam': False, 'show-perfect-pitch-popup': True}

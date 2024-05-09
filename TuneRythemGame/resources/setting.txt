@@ -1,0 +1,1 @@
+{'lang': '한국어', 'is_juldaumgam': False, 'show-perfect-pitch-popup': True}
